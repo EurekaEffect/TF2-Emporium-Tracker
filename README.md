@@ -11,3 +11,6 @@ Tutorial: https://youtu.be/HwGFxiaTwDk
 ### How can I help?
 
 You can spread awareness of the existence of this plugin and send any profiles you suspect to be either Drew or Metabolic with evidence at Bigboigames through sending a friend request to him on discord @bigboigames or by emailing at bigboigamesyt@gmail.com.
+
+### TODO
+Refactor the whole script and make it use typescript instead
